@@ -2,10 +2,6 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
-:root {
-  --font-family: "IBM Plex mono";
-}
-
 @media (prefers-color-scheme: dark) {
   :root {
     --main-text-color: #f1b2ce;
