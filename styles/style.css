@@ -21,7 +21,7 @@
   padding: 0 20px;
   position: relative;
   height: 100vh;
-  min-height: 768px;
+  min-height: 668px;
 }
 
 .header__rec {
@@ -226,7 +226,7 @@
   position: relative;
   text-align: center;
   height: 100vh;
-  min-height: 768px;
+  min-height: 668px;
 }
 
 .footer__title {
